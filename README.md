@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, Eu sou a Fernanda Nunes</h1>
-<h3 align="center">Sou fascinada por ciência e análise de dados no TI.</h3>
+<h3 align="center">Sou fascinada por ciência e análise de dados em TI.</h3>
 
 - 🌱 Estou aprendendo atualmente sobre **SQL, PHP 7, JavaScript**
 

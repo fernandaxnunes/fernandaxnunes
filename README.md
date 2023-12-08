@@ -6,7 +6,7 @@
 - 💬 Me pergunte sobre **SQL Server, PHP, JavaScript, HTML**
 
 - 📫 Você acha meus projetos de Banco de dados em  
-<a href="https://app.genmymodel.com/api/repository/fernandaxnunes" target="blank"><img align="center" src="https://app.genmymodel.com/personal/" alt="nanda nunes" height="30" width="40" /></a>
+<a href="https://app.genmymodel.com/api/repository/fernandaxnunes" target="blank"><link type="image/png" sizes="16x16" rel="icon" href=".../icons8-database-administrator-16.png"></a>
 
 - 📫 Você me acha **nunesfnds546@gmail.com**
 
